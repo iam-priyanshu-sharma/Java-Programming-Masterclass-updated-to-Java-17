@@ -54,26 +54,5 @@ public class Main {
         reallyRaw.add(adelaideCrows);     // unchecked warning
         reallyRaw.add(baseballTeam);    // unchecked warning
         reallyRaw.add(rawTeam);         // unchecked warning
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }

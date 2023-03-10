@@ -1,0 +1,6 @@
+Available actions (select word or letter):
+(F)orward
+(B)ackwards
+(L)ist Places
+(M)enu
+(Q)uit
